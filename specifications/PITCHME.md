@@ -235,7 +235,9 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 + có thể sử dụng Github manager
 
 **Bước 5: Estimable - Ước tính**
+
 + ước tính chi phí: 1.5 units (units phụ thuộc vào team)
+
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
