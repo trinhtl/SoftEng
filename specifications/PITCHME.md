@@ -220,8 +220,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 -cần làm: respository names, student ids trong trường hợp này nó sẽ là các ID sinh viên và sẽ là tên người dùng GitHub
 
 ---
-##ĐẶC TẢ
-###Một ví dụ cụ thể về User story:
+### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
 **Bước 3: Valuable - Đánh giá**
 
@@ -249,7 +248,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 => biết được input, định nghĩa sản phẩm và các kiểm tra nó và có 1 ước tính rõ ràng về chi phí
 
 ---
-## ĐẶC TẢ: Phân tích User Story: Phần 2
+### ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xét ví dụ :  “Là một người chơi, mục tiêu của chúng ta như một người chơi là di chuyển Mario”
 - Xác định  Vai trò : player
 	+ Mục đích : di chuyển Mario
@@ -260,7 +259,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 
 ---
-## ĐẶC TẢ: Phân tích User Story: Phần 2
+### ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xác định các thực thể : Level, Mario, Enemy, Figure, Key
 - Liên kết các thực thể : Mario, Enemy với Figure, Figure và Level, Level và Key
 - Xác định các ràng buộc : Keypress, move, collide, hit
@@ -292,7 +291,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 ---
 
 ### ĐẶC TẢ: Phân tích User Story: Phần 4
-![](http://assets/image/scenario.JPG)
+![scenario](assets/image/scenario.JPG)
 ---
 ### Phân tích User Story: Phần 4
 - Giả sử người dùng bấm left arrow <- và mario sẽ va chạm với một enemy
@@ -306,4 +305,4 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 ---
 ### ĐẶC TẢ: Phân tích User Story: Phần 5
-![](http://assets/image/formalizeUML.JPG)
+![formalizeUML](assets/image/formalizeUML.JPG)
