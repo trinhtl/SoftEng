@@ -169,12 +169,12 @@ Quá trình đặc tả phần mềm là lặp đi lặp lại các bước:
 Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu quả.
  
 
-**I (Independent) - Nguyên tắc là độc lập .**
+#### I (Independent) - Nguyên tắc là độc lập 
 
 -  User story nên được khép kín, theo cách không có sự phụ thuộc các User story khác
  
 
-**N (Negotiable) - Thỏa thuận trong Giai đoạn đàm phán.**
+#### N (Negotiable) - Thỏa thuận trong Giai đoạn đàm phán
 
 - Các cuộc đàm phán thường phải dừng lại khi các tính năng bổ sung hay chi tiết bổ sung được thêm vào User story.
 
@@ -182,12 +182,12 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 ### ĐẶC TẢ: Nguyên tắc INVEST
 
-**V ( Valuable) - Đánh giá User story**
+#### V ( Valuable) - Đánh giá User story
 
 -  Đánh giá giá trị của một tính năng tại thời điểm mà chúng ta đang cân nhắc xây dựng nó.
 
 
-**E (Estimable) - Ước tính các tính năng**
+#### E (Estimable) - Ước tính các tính năng
 
 -  Phải đảm bảo có sự hiểu biết cụ thể và thực tế về chi phí cho những tính năng thực sự quan trọng.
 
@@ -195,11 +195,11 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 ### ĐẶC TẢ: Nguyên tắc INVEST
 
-**S (Small) - Các tính năng nhỏ**
+#### S (Small) - Các tính năng nhỏ
 
-- User stories nên càng nhỏ càng tốt .
+- User stories nên càng nhỏ càng tốt
 
-**T (Testable) - Kiểm chứng**
+#### T (Testable) - Kiểm chứng
 
 - Để cả khách hàng và nhà phát triển có thể chắc chắn rằng tính năng đã được phát triển theo cách phù hợp với cả hai bên.
 
@@ -207,41 +207,42 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 ---
 
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
+
 - Như một prof ( giáo sư ), tôi muốn tạo ra một tập hợp các Repo để học sinh có thể thực hiện công việc của mình.
 
-**Bước 1: Independent- Độc lập**
+#### Bước 1: Independent- Độc lập
 
--vai trò : là giáo sư
+- vai trò : là giáo sư
 - mục đích: tạo ra các repo
 
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
 
-**Bước 2 : Negotiable - Thỏa thuận**
+#### Bước 2 : Negotiable - Thỏa thuận
 
 - cần làm: respository names, student ids trong trường hợp này nó sẽ là các ID sinh viên và sẽ là tên người dùng GitHub
 
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
-**Bước 3: Valuable - Đánh giá**
+#### Bước 3: Valuable - Đánh giá
 
  Lợi ích: học sinh có thể làm công việc của mình
 
 
-**Bước 4: Small - Tính năng nhỏ**
+#### Bước 4: Small - Tính năng nhỏ
 
 + có thể sử dụng Github manager
 
-**Bước 5: Estimable - Ước tính**
+#### Bước 5: Estimable - Ước tính
 
 + ước tính chi phí: 1.5 units (units phụ thuộc vào team)
 
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
-**Bước 6: Valuable- Đánh giá**
+#### Bước 6: Valuable- Đánh giá
 
 - cần chạy nó như 1 command riêng lẻ
 - các test cases tự động
