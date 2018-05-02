@@ -249,15 +249,12 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 => biết được input, định nghĩa sản phẩm và các kiểm tra nó và có 1 ước tính rõ ràng về chi phí
 
 ---
-### ĐẶC TẢ: Phân tích User Story: Phần 2
+### ĐẶC TẢ: Phân tích User Story: Phần 1
 - Xét ví dụ :  “Là một người chơi, mục tiêu của chúng ta như một người chơi là di chuyển Mario”
 - Xác định  Vai trò : player
 	+ Mục đích : di chuyển Mario
 	+ Lợi ích : tấn công/tránh
 	+ Giớ hạn : đầu vào từ bàn phím
-
----
-### ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xây dựng DoD : “Bàn phím điều khiển hoạt động của Mario. Mario có thể lên level. Khi Mario va chạm với kẻ địch, một trong chúng có thể bị thương.”
 - Đánh giá DoD qua bộ tiêu chí INVEST
 
@@ -267,6 +264,8 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 - Xác định các thực thể : Level, Mario, Enemy, Figure, Key
 - Liên kết các thực thể : Mario, Enemy với Figure, Figure và Level, Level và Key
 - Xác định các ràng buộc : Keypress, move, collide, hit
+---
+### ĐẶC TẢ: Phân tích User Story: Phần 2
 - Tạo dựng kịch bản để tìm ra thiếu sót :
 	+ Điều gì xảy ra khi Mario di chuyển và va chạm với Enemy -> Level nhận keypress thông qua input
 	+ Level kiểm soát nhiều Figure -> thêm phương thức updates với level
