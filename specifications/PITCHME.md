@@ -176,7 +176,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 - N (Negotiable) - Thỏa thuận trong Giai đoạn đàm phán
 
-- Các cuộc đàm phán thường phải dừng lại khi các tính năng bổ sung hay chi tiết bổ sung được thêm vào User story.
+- Các cuộc đàm phán thường phải dừng lại khi các tính năng bổ sung được thêm vào User story.
 
 ---
 
