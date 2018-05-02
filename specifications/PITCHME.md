@@ -164,8 +164,7 @@ Quá trình đặc tả phần mềm là lặp đi lặp lại các bước:
 
 ---
 
-##ĐẶC TẢ
-###Nguyên tắc INVEST
+### ĐẶC TẢ: Nguyên tắc INVEST
 
 Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu quả.
  
@@ -180,8 +179,8 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 - Các cuộc đàm phán thường phải dừng lại khi các tính năng bổ sung hay chi tiết bổ sung được thêm vào User story.
 
 ---
-##ĐẶC TẢ
-###Nguyên tắc INVEST
+
+### ĐẶC TẢ: Nguyên tắc INVEST
 
 **V ( Valuable) - Đánh giá User story**
 
@@ -193,8 +192,8 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 -  Phải đảm bảo có sự hiểu biết cụ thể và thực tế về chi phí cho những tính năng thực sự quan trọng.
 
 ---
-##ĐẶC TẢ
-###Nguyên tắc INVEST
+
+### ĐẶC TẢ: Nguyên tắc INVEST
 
 **S (Small) - Các tính năng nhỏ**
 
@@ -206,10 +205,8 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 
 ---
-##ĐẶC TẢ
-## User Story và ví dụ về INVEST  #
 
-###Một ví dụ cụ thể về User story:
+### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 - Như một prof ( giáo sư ), tôi muốn tạo ra một tập hợp các Repo để học sinh có thể thực hiện công việc của mình.
 
 **Bước 1: Independent- Độc lập**
@@ -238,8 +235,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 **Bước 5: Estimable - Ước tính**
 
 ---
-##ĐẶC TẢ
-###Một ví dụ cụ thể về User story:
+### ĐẶC TẢ: Một ví dụ cụ thể về User story:
 
 + ước tính chi phí: 1.5 units (units phụ thuộc vào team)
 
@@ -253,9 +249,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 => biết được input, định nghĩa sản phẩm và các kiểm tra nó và có 1 ước tính rõ ràng về chi phí
 
 ---
-##ĐẶC TẢ
-##Phân tích User Story : 
-###Phần 1 :
+## ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xét ví dụ :  “Là một người chơi, mục tiêu của chúng ta như một người chơi là di chuyển Mario”
 - Xác định  Vai trò : player
 	+ Mục đích : di chuyển Mario
@@ -266,9 +260,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 
 ---
-##ĐẶC TẢ
-##Phân tích User Story
-###Phần 2 : 
+## ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xác định các thực thể : Level, Mario, Enemy, Figure, Key
 - Liên kết các thực thể : Mario, Enemy với Figure, Figure và Level, Level và Key
 - Xác định các ràng buộc : Keypress, move, collide, hit
@@ -281,10 +273,10 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 
 ---
-##ĐẶC TẢ
-###Phân tích User Story: Phần 3
 
-####Hình thức hóa protoype bằng UML class diagram
+### ĐẶC TẢ: Phân tích User Story: Phần 3
+
+#### Hình thức hóa protoype bằng UML class diagram
 
 
 - Class Key:  gồm 1 method keyPressed(Event)
@@ -298,8 +290,8 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 
 ---
-##ĐẶC TẢ
-### Phân tích User Story: Phần 4
+
+### ĐẶC TẢ: Phân tích User Story: Phần 4
 ![](http://assets/image/scenario.JPG)
 ---
 ### Phân tích User Story: Phần 4
@@ -313,6 +305,5 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 	+ Mario sẽ gọi hit() trên enemy
 
 ---
-##ĐẶC TẢ
-### Phân tích User Story: Phần 5
+### ĐẶC TẢ: Phân tích User Story: Phần 5
 ![](http://assets/image/formalizeUML.JPG)
