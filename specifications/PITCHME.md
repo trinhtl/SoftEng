@@ -220,7 +220,7 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 
 **Bước 2 : Negotiable - Thỏa thuận**
 
--cần làm: respository names, student ids trong trường hợp này nó sẽ là các ID sinh viên và sẽ là tên người dùng GitHub
+- cần làm: respository names, student ids trong trường hợp này nó sẽ là các ID sinh viên và sẽ là tên người dùng GitHub
 
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
@@ -255,6 +255,9 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 	+ Mục đích : di chuyển Mario
 	+ Lợi ích : tấn công/tránh
 	+ Giớ hạn : đầu vào từ bàn phím
+
+---
+### ĐẶC TẢ: Phân tích User Story: Phần 2
 - Xây dựng DoD : “Bàn phím điều khiển hoạt động của Mario. Mario có thể lên level. Khi Mario va chạm với kẻ địch, một trong chúng có thể bị thương.”
 - Đánh giá DoD qua bộ tiêu chí INVEST
 
