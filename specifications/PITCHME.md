@@ -214,6 +214,9 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 -vai trò : là giáo sư
 - mục đích: tạo ra các repo
 
+---
+### ĐẶC TẢ: Một ví dụ cụ thể về User story:
+
 
 **Bước 2 : Negotiable - Thỏa thuận**
 
@@ -232,11 +235,9 @@ Giúp các kỹ sư và khách hàng viết nên những User story  có hiệu 
 + có thể sử dụng Github manager
 
 **Bước 5: Estimable - Ước tính**
-
++ ước tính chi phí: 1.5 units (units phụ thuộc vào team)
 ---
 ### ĐẶC TẢ: Một ví dụ cụ thể về User story:
-
-+ ước tính chi phí: 1.5 units (units phụ thuộc vào team)
 
 **Bước 6: Valuable- Đánh giá**
 
